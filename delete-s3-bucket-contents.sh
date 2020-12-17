@@ -1,3 +1,5 @@
+# https://gist.github.com/weavenet/f40b09847ac17dd99d16#gistcomment-3395658
+
 bucket=[[BUCKET_NAME]]
 prefix=[[PREFIX]]
 SRCFN=[[DUMP_FILE]]
